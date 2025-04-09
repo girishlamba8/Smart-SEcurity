@@ -1,0 +1,26 @@
+<script>start("d:\\codes\\yolov5\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("__pycache__","__pycache__",1,0,"0 B",1743922896,"4/6/25, 12:31:36 PM");</script>
+<script>addRow(".github",".github",1,0,"0 B",1743921638,"4/6/25, 12:10:38 PM");</script>
+<script>addRow("classify","classify",1,0,"0 B",1743921638,"4/6/25, 12:10:38 PM");</script>
+<script>addRow("data","data",1,0,"0 B",1743921638,"4/6/25, 12:10:38 PM");</script>
+<script>addRow("models","models",1,0,"0 B",1743922888,"4/6/25, 12:31:28 PM");</script>
+<script>addRow("segment","segment",1,0,"0 B",1743921638,"4/6/25, 12:10:38 PM");</script>
+<script>addRow("utils","utils",1,0,"0 B",1743922004,"4/6/25, 12:16:44 PM");</script>
+<script>addRow(".dockerignore",".dockerignore",0,3701,"3.6 kB",1743921596,"4/6/25, 12:09:56 PM");</script>
+<script>addRow(".gitattributes",".gitattributes",0,75,"75 B",1743921596,"4/6/25, 12:09:56 PM");</script>
+<script>addRow(".gitignore",".gitignore",0,4010,"3.9 kB",1743921596,"4/6/25, 12:09:56 PM");</script>
+<script>addRow("benchmarks.py","benchmarks.py",0,14146,"13.8 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("CITATION.cff","CITATION.cff",0,393,"393 B",1743921596,"4/6/25, 12:09:56 PM");</script>
+<script>addRow("CONTRIBUTING.md","CONTRIBUTING.md",0,5006,"4.9 kB",1743921596,"4/6/25, 12:09:56 PM");</script>
+<script>addRow("detect.py","detect.py",0,23761,"23.2 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("export.py","export.py",0,68583,"67.0 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("hubconf.py","hubconf.py",0,23994,"23.4 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("LICENSE","LICENSE",0,34523,"33.7 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("pyproject.toml","pyproject.toml",0,5403,"5.3 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("README.md","README.md",0,50010,"48.8 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("README.zh-CN.md","README.zh-CN.md",0,48979,"47.8 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("requirements.txt","requirements.txt",0,1598,"1.6 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("train.py","train.py",0,47157,"46.1 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("tutorial.ipynb","tutorial.ipynb",0,41447,"40.5 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
+<script>addRow("val.py","val.py",0,30449,"29.7 kB",1743921597,"4/6/25, 12:09:57 PM");</script>
